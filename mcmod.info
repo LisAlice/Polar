@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "Polar Client",
+    "name": "Polar Client",
+    "description": "The best mining script for Hypixel Skyblock",
+    "version": "2.8.1",
+    "mcversion": "1.8.9",
+    "url": "https://discord.gg/Polar",
+    "authorList": ["real fork"],
+    "credits": "Thank you for your support Polar Client",
+    "logoFile": "assets/logo.png"
+  }
+]
